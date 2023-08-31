@@ -1,0 +1,33 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.69E+12,665,http://159.89.38.11/login/submit,419,unknown status,Thread Group 1-1,text,FALSE,,556,478,1,1,http://159.89.38.11/login/submit,648,0,343
+1.69E+12,5259,http://159.89.38.11/,200,OK,Thread Group 1-1,text,TRUE,,1418425,21265,1,1,http://159.89.38.11/login,289,0,0
+1.69E+12,289,http://159.89.38.11/-0,302,Found,Thread Group 1-1,text,TRUE,,1246,636,1,1,http://159.89.38.11/,289,0,0
+1.69E+12,278,http://159.89.38.11/-1,200,OK,Thread Group 1-1,text,TRUE,,7776,898,1,1,http://159.89.38.11/login,278,0,0
+1.69E+12,253,http://159.89.38.11/-2,200,OK,Thread Group 1-1,bin,TRUE,,5676,918,1,1,http://159.89.38.11/assets/images/favicon.ico,253,0,0
+1.69E+12,1178,http://159.89.38.11/-3,200,OK,Thread Group 1-1,text,TRUE,,34072,941,1,1,http://159.89.38.11/node_modules/flag-icon-css/css/flag-icon.min.css,598,0,284
+1.69E+12,835,http://159.89.38.11/-4,200,OK,Thread Group 1-1,text,TRUE,,16552,922,1,1,http://159.89.38.11/vendors/gaxon-icon/styles.css,555,0,279
+1.69E+12,556,http://159.89.38.11/-5,200,OK,Thread Group 1-1,text,TRUE,,2850,949,1,1,http://159.89.38.11/node_modules/perfect-scrollbar/css/perfect-scrollbar.css,556,0,281
+1.69E+12,1610,http://159.89.38.11/-6,200,OK,Thread Group 1-1,text,TRUE,,121906,412,1,1,https://select2.github.io/select2-bootstrap-theme/css/bootstrap.min.css,1298,0,1151
+1.69E+12,50,http://159.89.38.11/-7,200,OK,Thread Group 1-1,text,TRUE,,16127,413,1,1,http://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css,49,0,31
+1.69E+12,1062,http://159.89.38.11/-8,200,OK,Thread Group 1-1,text,TRUE,,23875,416,1,1,https://select2.github.io/select2-bootstrap-theme/css/select2-bootstrap.css,940,0,875
+1.69E+12,3880,http://159.89.38.11/-9,200,OK,Thread Group 1-1,text,TRUE,,520659,1853,1,1,http://159.89.38.11/assets/css/semidark-style-1.min.css,285,0,0
+1.69E+12,1973,http://159.89.38.11/-0,200,OK,,text,TRUE,,518816,928,0,0,http://159.89.38.11/assets/css/semidark-style-1.min.css,285,0,0
+1.69E+12,267,http://159.89.38.11/-1,200,OK,ResDownload-Thread-5,text,TRUE,,1843,925,0,0,http://159.89.38.11/assets/fonts/noir-pro/styles.css,267,0,0
+1.69E+12,1518,http://159.89.38.11/-10,200,OK,Thread Group 1-1,text,TRUE,,53786,1767,1,1,http://159.89.38.11/assets/css/custom.css,738,0,0
+1.69E+12,993,http://159.89.38.11/-0,200,OK,,text,TRUE,,23580,914,0,0,http://159.89.38.11/assets/css/custom.css,738,0,0
+1.69E+12,398,http://159.89.38.11/-1,200,OK,ResDownload-Thread-7,text,TRUE,,16688,440,0,0,"https://fonts.googleapis.com/css?family=Nunito:400,400i,600,700,700i,800,800i,900,900i&display=swap",377,0,250
+1.69E+12,430,http://159.89.38.11/-2,200,OK,ResDownload-Thread-7,text,TRUE,,13518,413,0,0,"https://fonts.googleapis.com/css?family=Roboto:300i,400,400i,500,700,900",410,0,298
+1.69E+12,540,http://159.89.38.11/-11,200,OK,Thread Group 1-1,bin,TRUE,,42347,921,1,1,http://159.89.38.11/assets/images/logo/logo1.png,274,0,0
+1.69E+12,1136,http://159.89.38.11/-12,200,OK,Thread Group 1-1,text,TRUE,,88414,931,1,1,http://159.89.38.11/node_modules/jquery/dist/jquery.min.js,281,0,0
+1.69E+12,1140,http://159.89.38.11/-13,200,OK,Thread Group 1-1,text,TRUE,,44160,917,1,1,http://159.89.38.11/assets/js/jquery.form.js,585,0,287
+1.69E+12,550,http://159.89.38.11/-14,200,OK,Thread Group 1-1,text,TRUE,,151211,922,1,1,http://159.89.38.11/node_modules/moment/moment.js,265,0,0
+1.69E+12,534,http://159.89.38.11/-15,200,OK,Thread Group 1-1,text,TRUE,,78904,947,1,1,http://159.89.38.11/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js,268,0,0
+1.69E+12,268,http://159.89.38.11/-16,200,OK,Thread Group 1-1,text,TRUE,,18559,953,1,1,http://159.89.38.11/node_modules/perfect-scrollbar/dist/perfect-scrollbar.min.js,268,0,0
+1.69E+12,263,http://159.89.38.11/-17,200,OK,Thread Group 1-1,text,TRUE,,24371,945,1,1,http://159.89.38.11/node_modules/masonry-layout/dist/masonry.pkgd.min.js,262,0,0
+1.69E+12,1048,http://159.89.38.11/-18,200,OK,Thread Group 1-1,text,TRUE,,84432,937,1,1,http://159.89.38.11/node_modules/sweetalert2/dist/sweetalert2.js,518,0,256
+1.69E+12,271,http://159.89.38.11/-19,200,OK,Thread Group 1-1,text,TRUE,,20325,915,1,1,http://159.89.38.11/assets/js/functions.js,271,0,0
+1.69E+12,266,http://159.89.38.11/-20,200,OK,Thread Group 1-1,text,TRUE,,49690,924,1,1,http://159.89.38.11/assets/global/scripts/global.js,254,0,0
+1.69E+12,260,http://159.89.38.11/-21,200,OK,Thread Group 1-1,text,TRUE,,4285,916,1,1,http://159.89.38.11/assets/js/customizer.js,260,0,0
+1.69E+12,287,http://159.89.38.11/-22,200,OK,Thread Group 1-1,text,TRUE,,7202,912,1,1,http://159.89.38.11/assets/js/script.js,287,0,0
+1.69E+12,295,http://159.89.38.11/chart/data,419,unknown status,Thread Group 1-1,text,FALSE,,554,968,1,1,http://159.89.38.11/chart/data,295,0,0
+1.69E+12,6219,Test,,"Number of samples in transaction : 3, number of failing samples : 2",Thread Group 1-1,,FALSE,,1419535,22711,1,1,null,1232,182,343
